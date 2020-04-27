@@ -10,6 +10,7 @@ p {
   margin: 20px auto;
   width: 300px;
   text-align: center;
+  padding-bottom: 20px
 }
 
 h1 {
@@ -42,7 +43,7 @@ a{
 
 i{
   font-size: 25px;
-  color: #CAD2C5;
+  color: #354F52;
   padding:10px;
   margin:5px 10px;
 }
@@ -77,6 +78,7 @@ i:hover {
   padding: 15px;
   color: #84A98C;
   border-radius: 4px;
+  padding-bottom: 15px
 }
 
 .primery-btn:hover {
